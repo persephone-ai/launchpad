@@ -18,8 +18,12 @@ from collections import defaultdict
 from helpers import log
 import helpers as h
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 ## get openai api key from environment variable
-openai.api_key = 'API_KEY'
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 logging = False
 

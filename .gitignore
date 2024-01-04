@@ -1,0 +1,20 @@
+# needs dotenv
+.env
+
+# Virtual environment:
+venv/
+
+# Bytecode:
+__pycache__/
+
+# Temporary files:
+temp_image.jpg
+ingredients_image.jpg
+
+# Specific to your development environment:
+.python-version
+
+# Optional: if images are not needed for the project
+images/__pycache__/
+temp_image.jpg
+images/

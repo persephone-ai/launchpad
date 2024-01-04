@@ -1,7 +1,10 @@
 # OpenAI Launchpad
 
-![A retro pixel art image of a robot on a launchpad trampoline, similar to the first design, but with a unique twist_ the robot has a visible neural net-2](https://github.com/samshapley/openai-launchpad/assets/93387313/df904c4a-d2b9-4d25-99c8-5282ad01f760)
+![PersephoneAI logo](https://avatars.githubusercontent.com/u/155166044?s=200&v=4)
 
+## API key
+contained in .env
+install dotenv in your environment [taken care of by requirements.txt, see below
 
 ### Features
 
@@ -21,13 +24,9 @@
 Get building in 4 steps. In a new virtual environment, 
 
 ```python
-git clone git@github.com:samshapley/openai-launchpad.git
-
-cd openai-launchpad
-
 pip install -r requirements.txt
 
-update your openai api key in ai.py
+put your openai api key in .env
 ```
 
 
