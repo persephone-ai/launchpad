@@ -1,4 +1,4 @@
-# OpenAI Launchpad
+# Persephone (based on Sam's OpenAI Launchpad)
 
 ![PersephoneAI logo](https://avatars.githubusercontent.com/u/155166044?s=200&v=4)
 
